@@ -20,9 +20,9 @@ Exceptions are **runtime errors** that disrupt the normal flow of a program's ex
 
 ---
 
-## The `try`, `except`, `else`, `finally` Block
+## The `try`, `except` Block
 
-Python provides a structured way to handle exceptions using a combination of keywords: `try`, `except`, `else`, and `finally`.
+Python provides a structured way to handle exceptions using a combination of keywords: `try` & `except`.
 
 ### The `try` Block
 
@@ -80,12 +80,8 @@ except InvalidUserDataError as e:
 ### Best Practices
 Be specific: Catch specific exceptions rather than generic ones.
 
-Don't suppress errors: Avoid empty except blocks that silently ignore errors.
-
-Use finally for cleanup: Ensure resources are properly released.
-
-Define custom exceptions: For application-specific error conditions.
-
-Log exceptions: Record exceptions for debugging and monitoring.
-
-Exception handling makes your Python programs more resilient and easier to debug. 🚀
+- Don't suppress errors: Avoid empty except blocks that silently ignore errors.
+- Use finally for cleanup: Ensure resources are properly released.
+- Define custom exceptions: For application-specific error conditions.
+- Log exceptions: Record exceptions for debugging and monitoring.
+- Exception handling makes your Python programs more resilient and easier to debug. 🚀
