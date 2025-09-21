@@ -1,5 +1,5 @@
 # Random Number Generator & OTP Generator
----
+
 ## Random Number
 A simple Python script that generates a user-specified number of random integers within a set range.
 
