@@ -1,6 +1,6 @@
 # Python Lambda Functions
 
-This repository/guide provides examples and explanations for using **Lambda Functions** in Python, ranging from basic syntax to advanced applications with built-in functions and closures.
+This examples and explanations for using **Lambda Functions** in Python, ranging from basic syntax to advanced applications with built-in functions and closures.
 
 ---
 
