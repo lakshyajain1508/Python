@@ -3,6 +3,7 @@
 This simple Python script uses the `time` module to simulate a "human typing" effect for displaying text, line by character by character, often used for displaying lyrics or dialogue in a more engaging way.
 
 The provided example displays a snippet of the song <a href="https://github.com/lakshyajain1508/Python/blob/main/26%20Typing%20Effect/typing.py"><span>**"Arz Kiya Hai Lyrics"**.<span></a>
+
 <a href="https://github.com/lakshyajain1508/Python/blob/main/26%20Typing%20Effect/lyrics.py"><span>**"Agar Tum Saath Ho lyrics"**.<span></a>
 
 ---
