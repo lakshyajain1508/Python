@@ -1,4 +1,3 @@
-
 # 🐍 Python Regular Expressions (Regex)
 
 Regular Expressions, often shortened to **Regex**, are powerful tools for sophisticated **string processing** in Python. They allow you to define patterns to search, match, and manipulate text data efficiently.
@@ -165,3 +164,4 @@ pattern = r"\d+" # Matches one or more digits
 matches = re.findall(pattern, text)
 print(matches) # Output: ['404', '2025']
 ```
+
