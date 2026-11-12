@@ -2,7 +2,7 @@ import smtplib
 
 sender = "lakshyajain1508@gmail.com"
 recipient = "lakshyajain1508@gmail.com"
-password = "vwjbxacycwdzsrym"
+password = ""
 
 message = """
 Subject: Test Email from Python
